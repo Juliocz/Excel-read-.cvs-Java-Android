@@ -65,8 +65,8 @@ Solo deben llamar a los metodos :
 ```java
 micvs.leerlinea(0)
 ```
-![][test-logcolumn]
+![][test-png]
 
 [demo-gif]: https://s7.gifyu.com/images/csvtable.gif
 
-[test-logcolumn]: url=https://ibb.co/9t1kh7K][img]https://i.ibb.co/YZ1FXxn/cf.png
+[test-png]: url=https://ibb.co/9t1kh7K][img]https://i.ibb.co/YZ1FXxn/cf.png

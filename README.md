@@ -6,8 +6,14 @@ Pueden modificar la clase a su gusto, por si quieren darle otros metodos, no bor
 # Que tiene este Codigo
 La clase csvread.java les ayudara a leer archivos .csv guardados con Excel
 Tiene metodos funcionales que les ayudara a Obtener los datos del archivos asi como sus celdas
+# Tambien es posible obtener directamente un Objeto TableLayout con la clase Csv Read
+
+![][demo-gif]
 
 
-![Button sample demo][https://s7.gifyu.com/images/csvtable.gif]
+
+
+
+
 
 [demo-gif]: https://s7.gifyu.com/images/csvtable.gif

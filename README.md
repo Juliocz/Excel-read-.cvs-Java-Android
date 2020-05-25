@@ -66,9 +66,7 @@ Solo deben llamar a los metodos :
 micvs.leerlinea(0)
 ```
 ![][test-png]
-```java
-micvs.leerlinea(0)
-```
+
 
 [demo-gif]: https://s7.gifyu.com/images/csvtable.gif
 
